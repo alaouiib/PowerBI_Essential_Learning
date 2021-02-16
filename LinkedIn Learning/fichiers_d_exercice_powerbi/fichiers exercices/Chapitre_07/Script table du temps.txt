@@ -1,0 +1,59 @@
+﻿Datum = 
+/* 
+Script librement proposé par www.daxone.fr
+***
+Pour utiliser ce script, penser à preciser date de début et de fin (voir section variables).
+    Date de début et date de fin peuvent être calculées dynamiquement à partir de la date principale ('Date1') et la fonction CALENDAR. 
+        CALENDAR ( DATE ( YEAR ( MIN ( Date1 ) ) , 1 , 1 ),
+                   DATE ( YEAR ( MAX ( Date1 ) ) , 12 , 31 ) )
+    Dans ce cas, il convient d'ignorer la section VAR et de remplacer la fonction CALENDAR ligne 26 par les lignes ci-dessus.
+Après sa creation, trier la table en fonction de la colonne [Date] - question de confort. 
+Dans l'onglet Modélisation, marquer la table comme table de date
+    et utiliser la fonction Trier par colonne pour :
+        - trier la colonne Nom du mois par la colonne Année mois
+        - trier la colonne Nom court du mois par la colonne Année mois
+        - trier la colonne Mois par la colonne Numéro du mois
+        - trier la colonne Nom du jour par la colonne Numéro du jour
+    De plus, vous pouvez modifier le format du champ Date (par ex. dd/MM/yy) pour ne pas avoir les heures affichées.
+Dans la vue Modèle, lier Datum à la table des faits contenant les dates de transactions, 
+    en définissant la liaison active sur la date la plus importante
+    et le cas écheant des liaisons inactives sur les autres dates utiles
+    (ou dupliquez la table Datum avec la formule-type Datum2 = Datum).
+Enfin il est conseillé de masquer les champs de type Date liés à la table Datum
+    et de masquer les champs Numéro du jour et du mois de la table Datum.
+***
+Remarque: dans l'état actuel, les jours feriés n'apparaissent pas dans ce script - à suivre.
+ */
+
+VAR DebDate = DATE(2018,1,1)
+VAR FinDate = DATE(2019,12,31)
+RETURN
+ADDCOLUMNS(CALENDAR(DebDate,FinDate),
+           "Annee", FORMAT([Date],"YYYY"),
+           "Trimestre" , "T"&FORMAT([Date],"Q"),
+           "Numero du mois", MONTH([Date]),
+           "Mois", "M"&FORMAT([Date],"M"),
+           "Annee mois", FORMAT([Date],"YYYYMM"),
+           "Nom du mois", FORMAT([Date],"MMMM YY") ,
+           "Nom court du mois", FORMAT([Date],"MMM YY") ,
+           "Semaine" , "S" & FORMAT(WEEKNUM([Date],2),"00"),
+-- mise en place de la semaine ISO 8601 (WEEKNUM([Date],21)
+           "Semaine ISO" , "W" & FORMAT(WEEKNUM([Date],21),"00") ,
+-- mise en place de la colonne année-semaine ISO (pour le cumul hebdomadaire)
+           "Annee_Sem_ISO" , VAR An = YEAR([Date]) 
+                             VAR Sem = WEEKNUM([Date],2) 
+                             VAR SemISO = WEEKNUM([Date],21) RETURN
+                            IF( 
+                                AND (SemISO < 5, Sem > 50),
+                                An+1,
+                                IF(
+                                    AND (SemISO > 50, Sem < 5),
+                                    An-1,
+                                    An
+                                )
+                            ) 
+                            & "-W" & FORMAT(SemISO,"00") ,
+           "Numero du jour" , WEEKDAY([Date],2),
+           "Nom du jour", FORMAT([Date],"DDDD"),
+           "Jour ouvre" , IF(WEEKDAY([Date],2)<6,"Ouvre","Week-end")
+)

@@ -1,0 +1,15 @@
+Datum = 
+/*
+Script librement propose par DAXONE.FR - oct. 2020.
+*/
+
+VAR DebDate = DATE(2020,1,1)
+VAR FinDate = DATE(2020,12,31)
+RETURN
+ADDCOLUMNS(CALENDAR(DebDate,FinDate),
+           "Annee", FORMAT([Date],"YYYY"),
+           "Trimestre" , "T"&FORMAT([Date],"Q"),
+           "Numero du mois", MONTH([Date]),
+           "Annee mois", FORMAT([Date],"YYYYMM")
+
+)

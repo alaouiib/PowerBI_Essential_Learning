@@ -1,0 +1,149 @@
+03/04/2020                                                                                                                 Page    1
+Periode01 - 03                                                                
+4:16 pm                                                                          
+Soc 200  
+Windows CRLF UTF-8                                                                    
+#8#4#12#13#27#5#4#10#4#17#20#8
+
+ Entree Per.Date Post  	GL Compte    Description                Srce.CfL Ref.      Post            Debit              Credit  Alloc.
+------------------------------------------------------------------------------------------------------------------------------------
+ 16524  01  10/17/2012  3930621977   TXNPUES                    S1   Oui RHMXWPCP  Oui                              5 007.10    Non 
+191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   Non           Oui                             43 537.00    Oui 
+191667  01  01/14/2013  3714468136   GHAKASC QHJXDFM            S1   Oui           Oui          3 172.53                        Oui 
+191673  01  01/14/2013  2632703881   PAHFSAP LUVIKXZ            S1   Non           Oui            983.21                        Non 
+ 80495  01  11/21/2012  2766389794   XDZANTV                    S1   Oui TGZGMOXG  Oui                                903.78    Oui 
+ 80507  01  11/21/2012  4609266335   BWWYEZL                    S1   Oui USUKVMZO  Oui                                670.31    Non 
+ 80509  01  11/21/2012  1092717420   QJYPKVO                    S1   Non DNUNTASS  Oui                                848.50    Oui 
+ 80497  01  11/21/2012  3386366766   SOQLCMU                    S1   Oui BRHUMGJR  Oui                                  7.31    Oui 
+191669  01  01/14/2013  5905893739   FYIWNKA QUAFDKD            S1   Oui           Oui          9 167.93                        Oui 
+191671  01  01/14/2013  2749355876   CBMJTLP NGFSEIS            S1   Oui           Oui            746.70                        Oui 
+191674  01  01/14/2013  4530359106   OTAVZGH ZUQFISZ            S1   Oui           Non          7 035.74                        Oui 
+244819  01  02/04/2013  4679391677   EGHLQTI ABE                S1   Oui           Non                             89 947.13    Non 
+ 96062  01  11/30/2012  5996493062   KTSVTADFF EHEHFMX          S1   Oui UBNQLRCC  Oui              7.10                        Oui 
+ 16527  01  10/17/2012  5595769375   ILCVJYC                    S1   Oui HCVZOUMY  Oui                                321.19    Oui 
+191670  01  01/14/2013  1948028853   RPPDCWC UWODNIO            S1   Oui           Non          9 293.80                        Non 
+191672  01  01/14/2013  4938823703   CTMDXXP HXOXVFF            S1   Oui           Non            175.00                        Oui 
+191668  01  01/14/2013  4207018603   DBZZULF QGDZQMD            S1   Oui           Oui            206.26                        Oui 
+201442  02  01/16/2013  5339093153   KIP MAJ                    S1   Oui           Oui          6 030.75                        Non 
+201444  02  01/16/2013  4189184779   NFR MMP                    S1   Oui           Oui         41 790.07                        Non 
+201448  02  01/16/2013  3370491102   FIU ZVR                    S1   Oui           Non         54 044.56                        Oui 
+201446  02  01/16/2013  4586422636   EJH ZMT                    S1   Oui           Oui            678.69                        Oui 
+201451  02  01/16/2013  1425533033   JWS ZCI                    S1   Oui           Oui                             30 278.28    Oui 
+201452  02  01/16/2013  5191302470   TMQ GMU                    S1   Oui           Oui        666 195.93                        Oui 
+201454  02  01/16/2013  2155845833   HCP DNV                    S1   Oui           Oui        820 262.25                        Oui 
+201456  02  01/16/2013  1250064928   VMO AWH                    S1   Non           Oui         25 478.89                        Non 
+201458  02  01/16/2013  2384080804   TGE XGG                    S1   Non           Oui        788 684.67                        Oui 
+201460  02  01/16/2013  1606678185   KRS BRK                    S1   Oui           Oui         71 058.47                        Non 
+201464  02  01/16/2013  3363129639   FHA AKO                    S1   Non           Oui         16 947.59                        Oui 
+201462  02  01/16/2013  4719124808   QGU UIO                    S1   Non           Oui             81.53                        Oui 
+201466  02  01/16/2013  5444141687   NKC DSF                    S1   Non           Oui         68 968.66                        Non 
+201468  02  01/16/2013  3596453934   AAC PZU                    S1   Oui           Oui        366 362.63                        Oui 
+201470  02  01/16/2013  5658191939   FMF EWO                    S1   Oui           Oui        341 992.68                        Oui 
+201472  02  01/16/2013  2670215222   GPE PYM                    S1   Oui           Oui          6 766.96                        Oui 
+201474  02  01/16/2013  5157395529   APR WCM                    S1   Oui           Non                         88 469 487.43    Oui 
+201476  02  01/16/2013  1294323461   KCD VMP                    S1   Non           Oui          7 493.60                        Oui 
+201478  02  01/16/2013  2398412695   ONP HQT                    S1   Non           Oui                            341 718.97    Oui 
+201480  02  01/16/2013  5955295141   RQF BYJ                    S1   Oui           Non        405 319.75                        Oui 
+201484  02  01/16/2013  2024774889   RHN LFP                    S1   Oui           Oui        502 615.75                        Oui 
+201617  02  01/16/2013  1148505273   RSJ ZPR                    S1   Oui           Non          5 277.11                        Oui 
+ 68944  02  11/14/2012  1592175803   YPVMQHO                    S1   Non KOBUEPIG  Oui                              1 332.58    Oui 
+191684  02  01/14/2013  5085986818   TOENLKI IKUQGHJ            S1   Oui           Oui                              4 277.50    Oui 
+201482  02  01/16/2013  4980117019   MNY BXQ                    S1   Oui           Non        119 596.24                        Oui 
+201486  02  01/16/2013  1675964576   TUW FZU                    S1   Non           Oui                         63 107 204.44    Oui 
+201488  02  01/16/2013  4070447707   QVY WVI                    S1   Oui           Oui         97 248.32                        Oui 
+201492  02  01/16/2013  5901784648   BEM TNG                    S1   Non           Oui             96.28                        Oui 
+202906  02  01/17/2013  4705202419   GHC EZC                    S1   Oui           Oui            309.96                        Oui 
+191676  02  01/14/2013  1656268173   YLEOJSF ILJUCZQ            S1   Oui           Oui          9 436.88                        Oui 
+201490  02  01/16/2013  3555076584   RRA FHY                    S1   Oui           Oui                             62 393.74    Oui 
+201495  02  01/16/2013  1994042408   NLD YIJ                    S1   Oui           Oui                          7 976 446.15    Oui 
+201496  02  01/16/2013  1816184060   WGK ALF                    S1   Oui           Oui                          1 311 304.57    Oui 
+201499  02  01/16/2013  2726425901   QQN LFZ                    S1   Oui           Oui                            100 286.01    Oui 
+201500  02  01/16/2013  2004263975   RKT BQB                    S1   Oui           Oui          3 186.98                        Oui 
+201502  02  01/16/2013  4864189690   QUV NJT                    S1   Non           Oui          1 157.72                        Oui 
+201504  02  01/16/2013  4582712143   QAW JJM                    S1   Oui           Non                              3 648.62    Oui 
+201506  02  01/16/2013  2062107155   KZN KTI                    S1   Oui           Non                              5 613.88    Oui 
+201508  02  01/16/2013  5353783999   MJL JSW                    S1   Non           Oui          1 509.70                        Oui 
+201510  02  01/16/2013  4961873358   EVB YAE                    S1   Oui           Oui            107.54                        Oui 
+201512  02  01/16/2013  4933832108   SQL QNY                    S1   Oui           Oui                              7 614.96    Oui 
+297571  02  02/26/2013  4852971285   EEO LAEUZ                  S1   Non           Oui          1 824.37                        Oui 
+201514  02  01/16/2013  3517474593   SFH YIJ                    S1   Non           Oui          6 939.49                        Oui 
+201516  02  01/16/2013  1650585504   FVJ EDJ                    S1   Non           Oui         25 180.59                        Oui 
+201518  02  01/16/2013  5059829559   JCI HIL                    S1   Non           Oui        317 738.41                        Oui 
+202882  02  01/17/2013  3184536751   TIV JPK                    S1   Non           Oui         57 711.04                        Non 
+201522  02  01/16/2013  4329447393   MWL CYD                    S1   Non           Oui                             89 204.35    Non 
+202884  02  01/17/2013  5570531576   AZV UNU                    S1   Oui           Oui         50 454.20                        Oui 
+191682  02  01/14/2013  1820672461   GCKOZFG TMSCKBQ            S1   Oui           Oui            511.83                        Oui 
+201520  02  01/16/2013  4140099655   LBQ NZN                    S1   Oui           Oui         30 320.51                        Oui 
+201524  02  01/16/2013  5589444439   NVR LIH                    S1   Oui           Oui          8 233.61                        Non 
+201526  02  01/16/2013  4746903212   LNM SPJ                    S1   Oui           Oui            389.10                        Non 
+201528  02  01/16/2013  5674799509   ECQ YAW                    S1   Oui           Oui                             59 322.30    Oui 
+201530  02  01/16/2013  3619009221   NZI VQO                    S1   Oui           Non              9.55                        Oui 
+201532  02  01/16/2013  1731849384   BHA KIM                    S1   Oui           Oui         14 416.68                        Oui 
+201536  02  01/16/2013  4571753309   KZD OML                    S1   Non           Oui                              8 894.55    Oui 
+201534  02  01/16/2013  3009486640   OTH WLA                    S1   Oui           Oui             12.71                        Oui 
+201538  02  01/16/2013  3484349949   TUN NTN                    S1   Oui           Oui                              9 310.53    Oui 
+201540  02  01/16/2013  2447554338   IXX QDQ                    S1   Oui           Oui                              2 094.16    Non 
+201544  02  01/16/2013  5720075203   YYI SAT                    S1   Non           Non          4 649.14                        Oui 
+201542  02  01/16/2013  4328000106   ZOR NHF                    S1   Oui           Oui                                 63.29    Oui 
+201546  02  01/16/2013  2343476904   IVB ACD                    S1   Oui           Oui                            399 731.28    Oui 
+201548  02  01/16/2013  4819464989   IQL PIZ                    S1   Non           Oui        598 216.89                        Oui 
+201552  02  01/16/2013  3483562951   YYM RRE                    S1   Oui           Oui                              7 223.20    Non 
+201550  02  01/16/2013  1796152645   DNN MTW                    S1   Oui           Oui         88 025.51                        Oui 
+201554  02  01/16/2013  5645509504   TSB XSI                    S1   Non           Oui                                 99.76    Oui 
+201556  02  01/16/2013  2252988184   IRD ARC                    S1   Non           Oui          2 705.24                        Oui 
+201562  02  01/16/2013  5030639913   KTK GBS                    S1   Oui           Non         86 870.21                        Oui 
+202886  02  01/17/2013  4589654367   WAY PHP                    S1   Non           Non                            888 652.21    Oui 
+201566  02  01/16/2013  3923850182   RJW EVH                    S1   Oui           Oui                             55 675.38    Non 
+201564  02  01/16/2013  4005543986   WMQ VIR                    S1   Oui           Oui            682.39                        Oui 
+201568  02  01/16/2013  2196234980   THA MAS                    S1   Oui           Oui          3 610.93                        Non 
+201570  02  01/16/2013  3317853286   JOF ZPH                    S1   Non           Oui         92 762.79                        Oui 
+201576  02  01/16/2013  4783891770   BXC YZM                    S1   Oui           Oui         15 916.03                        Oui 
+191678  02  01/14/2013  3228123970   RTVIOTA JSUMMGT            S1   Oui           Oui          6 738.16                        Non 
+201572  02  01/16/2013  5758667742   XDA GXF                    S1   Oui           Oui         73 950.06                        Oui 
+201574  02  01/16/2013  4690896064   NET EFG                    S1   Oui           Non            108.43                        Oui 
+201578  02  01/16/2013  5416669577   DXX QFO                    S1   Oui           Oui                              1 573.65    Oui 
+201580  02  01/16/2013  4073990529   OVT HVE                    S1   Oui           Oui                                234.26    Non 
+201582  02  01/16/2013  3350626514   MSR HTU                    S1   Non           Oui         70 177.04                        Oui 
+201584  02  01/16/2013  5534716215   LPW KSA                    S1   Non           Oui        709 566.95                        Oui 
+201586  02  01/16/2013  1333696422   BMB QXF                    S1   Oui           Oui         57 828.34                        Oui 
+202948  02  01/17/2013  1846344572   ORT VRC                    S1   Oui           Non                             91 222.89    Oui 
+201588  02  01/16/2013  3584813314   GXL XLE                    S1   Oui           Oui        570 595.38                        Oui 
+202949  02  01/17/2013  2340931540   RJD YZY                    S1   Oui           Oui                             12 058.25    Oui 
+201592  02  01/16/2013  3747365477   UZK TVP                    S1   Non           Oui          5 405.23                        Oui 
+202950  02  01/17/2013  2328760641   JJF TAW                    S1   Non           Oui                             17 300.64    Oui 
+201590  02  01/16/2013  4891238351   RLJ TYI                    S1   Non           Oui          9 280.07                        Oui 
+201594  02  01/16/2013  2445576889   NPB LTM                    S1   Oui           Oui         73 600.47                        Oui 
+201596  02  01/16/2013  1131400890   KFT VOU                    S1   Oui           Oui          2 511.14                        Oui 
+201598  02  01/16/2013  3198000607   XGF WHD                    S1   Oui           Oui        804 206.25                        Oui 
+202888  02  01/17/2013  3424010164   NCV TQK                    S1   Oui           Non         60 603.58                        Oui 
+201600  02  01/16/2013  1357362202   NTF YEL                    S1   Oui           Oui          2 003.65                        Oui 
+191680  02  01/14/2013  3026859465   EDBUACD WEZRWLL            S1   Oui           Non             84.87                        Non 
+201603  02  01/16/2013  1228021754   BCE IPT                    S1   Oui           Non         53 459.63                        Oui 
+201607  02  01/16/2013  1960409896   RPW VOP                    S1   Oui           Oui                             19 338.24    Oui 
+201605  02  01/16/2013  5435665837   KCO IPE                    S1   Oui           Oui          1 733.55                        Oui 
+201609  02  01/16/2013  1670503103   ZEE IEX                    S1   Oui           Non            966.52                        Oui 
+201611  02  01/16/2013  5090237998   NKJ HDW                    S1   Oui           Oui         89 788.23                        Oui 
+201615  02  01/16/2013  3037106335   NYH WIN                    S1   Oui           Oui                              8 285.95    Oui 
+191683  02  01/14/2013  3218305868   NCUADLA OCCRZZI            S1   Oui           Oui          9 464.69                        Oui 
+201613  02  01/16/2013  3160675662   UOE FLW                    S1   Oui           Oui             61.43                        Non 
+244821  02  02/04/2013  4782051803   APXSCSA MUY                S1   Oui           Oui                              6 341.42    Oui 
+201619  02  01/16/2013  4800649934   EYY TWA                    S1   Oui           Non                             88 238.61    Oui 
+201621  02  01/16/2013  4586812816   WXH OLT                    S1   Oui           Oui        467 624.78                        Oui 
+201625  02  01/16/2013  5633998695   TPI DRN                    S1   Oui           Non                             17 385.42    Oui 
+191679  02  01/14/2013  2738920179   NVJEQRO MXHOEZY            S1   Oui           Non            387.05                        Non 
+201623  02  01/16/2013  5282986169   ENB MWC                    S1   Non           Non            322.20                        Oui 
+201627  02  01/16/2013  2886267720   URA LQA                    S1   Oui           Oui        792 962.67                        Oui 
+201629  02  01/16/2013  3408572430   SNU KIK                    S1   Oui           Non         46 418.08                        Oui 
+201631  02  01/16/2013  4162827051   LNQ TWJ                    S1   Oui           Oui        474 346.28                        Oui 
+201633  02  01/16/2013  5104452119   IIZ RRM                    S1   Oui           Oui          3 887.06                        Oui 
+202934  02  01/17/2013  3039960200   IYN GQU                    S1   Non           Oui                             40 238.82    Oui 
+202944  02  01/17/2013  3464897804   ZPZ QJH                    S1   Oui           Oui                              7 935.31    Oui 
+201637  02  01/16/2013  2954227854   NJX OQP                    S1   Oui           Oui         62 640.49                        Oui 
+191681  02  01/14/2013  4674532310   KPRFAQD CSRAWJD            S1   Oui           Oui            659.26                        Non 
+201635  02  01/16/2013  1209819056   USF IEK                    S1   Non           Oui         40 684.90                        Oui 
+201639  02  01/16/2013  2674857578   ZTQ EWX                    S1   Oui           Oui         84 183.82                        Non 
+201641  02  01/16/2013  4870683163   OUM WDK                    S1   Oui           Non         44 060.39                        Oui 
+201643  02  01/16/2013  2980748744   UTP LWB                    S1   Oui           Oui                              2 625.33    Oui 
+202936  02  01/17/2013  1120052663   GXA CPB                    S1   Oui           Oui         65 314.59                        Oui 
+201645  02  01/16/2013  5100670344   EFC WFP                    S1   Non           Oui                             19 722.02    Oui 
+201647  02  01/16/2013  4191224907   FNA TWX                    S1   Oui           Oui         92 191.66                        Oui 
